@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Error","An error encountered while visiting a value."],["OwnedValue","An owned value."],["Stream","A value stream."]],"trait":[["Value","A value with a streamable structure."]]});
